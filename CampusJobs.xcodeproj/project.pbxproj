@@ -17,7 +17,6 @@
 		D306831C210FBF79003C2CB1 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3068318210FBF57003C2CB1 /* Storyboard.storyboard */; };
 		D38B18DE210F80CB005E607F /* MainProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC29BF48210A913B00CB81DC /* MainProfileViewController.m */; };
 		D38B18DF210F80CB005E607F /* SegueConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = F31226A4210A8927004F4677 /* SegueConstants.m */; };
-		D38B18E2210FB1CF005E607F /* NameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D38B18E1210FB1CF005E607F /* NameViewController.m */; };
 		D38B18E6210FBE43005E607F /* ProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B67A8921067F5E0042BD49 /* ProfileViewController.m */; };
 		D3B67A8D21079C2C0042BD49 /* PhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3B67A8C21079C2C0042BD49 /* PhotoViewController.m */; };
 		D3B67A8F2107BF920042BD49 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3B67A8E2107BF800042BD49 /* Accounts.framework */; };
@@ -105,27 +104,6 @@
 		D31566C4210A86C900E5C414 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		D31566C5210A86C900E5C414 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		D3811B2C20FD3EA800EEA6FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../.Trash/Assets.xcassets; sourceTree = "<group>"; };
-		D38B18AC210EB8F6005E607F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D38B18AD210EB8F6005E607F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		D38B18C2210EC850005E607F /* ServicesTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ServicesTableViewController.h; sourceTree = "<group>"; };
-		D38B18C3210EC850005E607F /* ServicesTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ServicesTableViewController.m; sourceTree = "<group>"; };
-		D38B18C5210EC86D005E607F /* ServicesTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ServicesTableViewCell.h; sourceTree = "<group>"; };
-		D38B18C6210EC86D005E607F /* ServicesTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ServicesTableViewCell.m; sourceTree = "<group>"; };
-		D38B18C8210EC891005E607F /* ServicesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ServicesViewController.h; sourceTree = "<group>"; };
-		D38B18C9210EC891005E607F /* ServicesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ServicesViewController.m; sourceTree = "<group>"; };
-		D38B18CB210EC8AE005E607F /* PortfolioViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PortfolioViewController.h; sourceTree = "<group>"; };
-		D38B18CC210EC8AE005E607F /* PortfolioViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PortfolioViewController.m; sourceTree = "<group>"; };
-		D38B18CF210EC921005E607F /* ContactViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContactViewController.h; sourceTree = "<group>"; };
-		D38B18D0210EC921005E607F /* ContactViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ContactViewController.m; sourceTree = "<group>"; };
-		D38B18D2210EC940005E607F /* EmailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EmailViewController.h; sourceTree = "<group>"; };
-		D38B18D5210EC968005E607F /* SocialTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SocialTableViewController.h; sourceTree = "<group>"; };
-		D38B18D6210EC968005E607F /* SocialTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialTableViewController.m; sourceTree = "<group>"; };
-		D38B18D8210EC993005E607F /* SocialTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SocialTableViewCell.h; sourceTree = "<group>"; };
-		D38B18D9210EC993005E607F /* SocialTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialTableViewCell.m; sourceTree = "<group>"; };
-		D38B18DB210EC9AF005E607F /* SocialViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SocialViewController.h; sourceTree = "<group>"; };
-		D38B18DC210EC9AF005E607F /* SocialViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialViewController.m; sourceTree = "<group>"; };
-		D38B18E0210FB1CF005E607F /* NameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NameViewController.h; sourceTree = "<group>"; };
-		D38B18E1210FB1CF005E607F /* NameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NameViewController.m; sourceTree = "<group>"; };
 		D3B67A8821067F5E0042BD49 /* ProfileViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProfileViewController.h; sourceTree = "<group>"; };
 		D3B67A8921067F5E0042BD49 /* ProfileViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProfileViewController.m; sourceTree = "<group>"; };
 		D3B67A8B21079C2C0042BD49 /* PhotoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PhotoViewController.h; sourceTree = "<group>"; };
@@ -135,29 +113,6 @@
 		D3B67A922107C3D20042BD49 /* SearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
 		D3B67A932107C3D20042BD49 /* SearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
 		D3B67A982107E6D30042BD49 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		D3D64E2C211B68BF00F48F1A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D3D64E2D211B68BF00F48F1A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D3D64E2E211B68BF00F48F1A /* SimpleMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleMessage.m; sourceTree = "<group>"; };
-		D3D64E2F211B68BF00F48F1A /* BackgroundFetchDemo-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BackgroundFetchDemo-Prefix.pch"; sourceTree = "<group>"; };
-		D3D64E30211B68BF00F48F1A /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
-		D3D64E31211B68BF00F48F1A /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
-		D3D64E33211B68BF00F48F1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D3D64E34211B68BF00F48F1A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D3D64E35211B68BF00F48F1A /* SimpleMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleMessage.h; sourceTree = "<group>"; };
-		D3D64E36211B68BF00F48F1A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D3D64E37211B68BF00F48F1A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D3D64E38211B68BF00F48F1A /* BackgroundFetchDemo-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BackgroundFetchDemo-Info.plist"; sourceTree = "<group>"; };
-		D3D64E39211B68BF00F48F1A /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
-		D3D64E3A211B68BF00F48F1A /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
-		D3D64E3C211B68BF00F48F1A /* BackgroundFetchDemoTests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BackgroundFetchDemoTests-Info.plist"; sourceTree = "<group>"; };
-		D3D64E3E211B68BF00F48F1A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D3D64E3F211B68BF00F48F1A /* BackgroundFetchDemoTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BackgroundFetchDemoTests.m; sourceTree = "<group>"; };
-		D3D64E52211B921D00F48F1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D3D64E54211B921D00F48F1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D3D64E55211B921D00F48F1A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D3D64E57211B921D00F48F1A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D3D64E58211B921D00F48F1A /* PictureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PictureViewController.h; sourceTree = "<group>"; };
-		D3D64E60211B9A1F00F48F1A /* PictureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PictureViewController.m; sourceTree = "<group>"; };
 		D3E5A15520FD545700891964 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		D3E5A15620FD545700891964 /* SignUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignUpViewController.h; sourceTree = "<group>"; };
 		D3E5A15720FD545800891964 /* SignUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignUpViewController.m; sourceTree = "<group>"; };
@@ -329,121 +284,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D38B1727210B96B900EE5C8E /* socila */ = {
-			isa = PBXGroup;
-			children = (
-				D3D64E4D211B921D00F48F1A /* Photos */,
-				D3D64E4C211B907E00F48F1A /* New Group */,
-				D3D64E2A211B68BF00F48F1A /* BackgroundFetchDemo */,
-				D3D64E3B211B68BF00F48F1A /* BackgroundFetchDemoTests */,
-				D38B18AC210EB8F6005E607F /* ViewController.h */,
-				D38B18AD210EB8F6005E607F /* ViewController.m */,
-			);
-			path = socila;
-			sourceTree = "<group>";
-		};
-		D38B18BE210EC624005E607F /* Services */ = {
-			isa = PBXGroup;
-			children = (
-				D38B18C2210EC850005E607F /* ServicesTableViewController.h */,
-				D38B18C3210EC850005E607F /* ServicesTableViewController.m */,
-				D38B18C5210EC86D005E607F /* ServicesTableViewCell.h */,
-				D38B18C6210EC86D005E607F /* ServicesTableViewCell.m */,
-				D38B18C8210EC891005E607F /* ServicesViewController.h */,
-				D38B18C9210EC891005E607F /* ServicesViewController.m */,
-			);
-			path = Services;
-			sourceTree = "<group>";
-		};
-		D38B18BF210EC65D005E607F /* Social */ = {
-			isa = PBXGroup;
-			children = (
-				D38B18D5210EC968005E607F /* SocialTableViewController.h */,
-				D38B18D6210EC968005E607F /* SocialTableViewController.m */,
-				D38B18DC210EC9AF005E607F /* SocialViewController.m */,
-				D38B18D8210EC993005E607F /* SocialTableViewCell.h */,
-				D38B18D9210EC993005E607F /* SocialTableViewCell.m */,
-				D38B18DB210EC9AF005E607F /* SocialViewController.h */,
-			);
-			path = Social;
-			sourceTree = "<group>";
-		};
-		D38B18C0210EC676005E607F /* Gallery */ = {
-			isa = PBXGroup;
-			children = (
-				D38B18CB210EC8AE005E607F /* PortfolioViewController.h */,
-				D38B18CC210EC8AE005E607F /* PortfolioViewController.m */,
-			);
-			path = Gallery;
-			sourceTree = "<group>";
-		};
-		D38B18C1210EC69F005E607F /* Contact Us */ = {
-			isa = PBXGroup;
-			children = (
-				D38B18CF210EC921005E607F /* ContactViewController.h */,
-				D38B18D0210EC921005E607F /* ContactViewController.m */,
-				D38B18D2210EC940005E607F /* EmailViewController.h */,
-			);
-			path = "Contact Us";
-			sourceTree = "<group>";
-		};
 		D38F03AD2101643500EE35D1 /* Recovered References */ = {
 			isa = PBXGroup;
 			children = (
 				D3811B2C20FD3EA800EEA6FC /* Assets.xcassets */,
 			);
 			name = "Recovered References";
-			sourceTree = "<group>";
-		};
-		D3D64E2A211B68BF00F48F1A /* BackgroundFetchDemo */ = {
-			isa = PBXGroup;
-			children = (
-				D3D64E2B211B68BF00F48F1A /* InfoPlist.strings */,
-				D3D64E2D211B68BF00F48F1A /* AppDelegate.h */,
-				D3D64E2E211B68BF00F48F1A /* SimpleMessage.m */,
-				D3D64E2F211B68BF00F48F1A /* BackgroundFetchDemo-Prefix.pch */,
-				D3D64E30211B68BF00F48F1A /* DetailViewController.m */,
-				D3D64E31211B68BF00F48F1A /* MasterViewController.h */,
-				D3D64E32211B68BF00F48F1A /* Main.storyboard */,
-				D3D64E34211B68BF00F48F1A /* main.m */,
-				D3D64E35211B68BF00F48F1A /* SimpleMessage.h */,
-				D3D64E36211B68BF00F48F1A /* Images.xcassets */,
-				D3D64E37211B68BF00F48F1A /* AppDelegate.m */,
-				D3D64E38211B68BF00F48F1A /* BackgroundFetchDemo-Info.plist */,
-				D3D64E39211B68BF00F48F1A /* MasterViewController.m */,
-				D3D64E3A211B68BF00F48F1A /* DetailViewController.h */,
-			);
-			path = BackgroundFetchDemo;
-			sourceTree = "<group>";
-		};
-		D3D64E3B211B68BF00F48F1A /* BackgroundFetchDemoTests */ = {
-			isa = PBXGroup;
-			children = (
-				D3D64E3C211B68BF00F48F1A /* BackgroundFetchDemoTests-Info.plist */,
-				D3D64E3D211B68BF00F48F1A /* InfoPlist.strings */,
-				D3D64E3F211B68BF00F48F1A /* BackgroundFetchDemoTests.m */,
-			);
-			path = BackgroundFetchDemoTests;
-			sourceTree = "<group>";
-		};
-		D3D64E4C211B907E00F48F1A /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
-			sourceTree = "<group>";
-		};
-		D3D64E4D211B921D00F48F1A /* Photos */ = {
-			isa = PBXGroup;
-			children = (
-				D3D64E60211B9A1F00F48F1A /* PictureViewController.m */,
-				D3D64E58211B921D00F48F1A /* PictureViewController.h */,
-				D3D64E51211B921D00F48F1A /* LaunchScreen.storyboard */,
-				D3D64E53211B921D00F48F1A /* Main.storyboard */,
-				D3D64E55211B921D00F48F1A /* main.m */,
-				D3D64E57211B921D00F48F1A /* Info.plist */,
-			);
-			path = Photos;
 			sourceTree = "<group>";
 		};
 		F39E66E220EFE12800381BE7 = {
@@ -626,13 +472,6 @@
 				D3068315210FBF49003C2CB1 /* PaymentInfo.storyboard */,
 				D3068318210FBF57003C2CB1 /* Storyboard.storyboard */,
 				F39E66F920EFE12900381BE7 /* LaunchScreen.storyboard */,
-				D38B18E0210FB1CF005E607F /* NameViewController.h */,
-				D38B18E1210FB1CF005E607F /* NameViewController.m */,
-				D38B1727210B96B900EE5C8E /* socila */,
-				D38B18BE210EC624005E607F /* Services */,
-				D38B18C0210EC676005E607F /* Gallery */,
-				D38B18C1210EC69F005E607F /* Contact Us */,
-				D38B18BF210EC65D005E607F /* Social */,
 			);
 			path = Storyboards;
 			sourceTree = "<group>";
@@ -936,7 +775,6 @@
 				F3C1F28A211D0E3500B4D588 /* JobCompletedViewController.m in Sources */,
 				F35E0B27211563F200FAC63C /* EditProfileViewController.m in Sources */,
 				FC6C7E2F20FD47D500034CC4 /* NearbyPostingsViewController.m in Sources */,
-				D38B18E2210FB1CF005E607F /* NameViewController.m in Sources */,
 				F312269B210A4E18004F4677 /* EditPaymentInfoViewController.m in Sources */,
 				F3AE9F752102A1CF007BB53A /* SuggestPriceViewController.m in Sources */,
 				F31226A1210A8582004F4677 /* Utils.m in Sources */,
@@ -1001,46 +839,6 @@
 				D3068319210FBF57003C2CB1 /* Base */,
 			);
 			name = Storyboard.storyboard;
-			sourceTree = "<group>";
-		};
-		D3D64E2B211B68BF00F48F1A /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D3D64E2C211B68BF00F48F1A /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		D3D64E32211B68BF00F48F1A /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D3D64E33211B68BF00F48F1A /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		D3D64E3D211B68BF00F48F1A /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D3D64E3E211B68BF00F48F1A /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		D3D64E51211B921D00F48F1A /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D3D64E52211B921D00F48F1A /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		D3D64E53211B921D00F48F1A /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D3D64E54211B921D00F48F1A /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 		F31226A9210A995A004F4677 /* PaymentInfo.storyboard */ = {
